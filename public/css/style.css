@@ -1,0 +1,21 @@
+body{
+
+ background-color: #f2f2f2;
+}
+fieldset{
+
+    border: 0;
+    box-shadow: 0 5px 5px rgb(0 0 0 / 20%);
+    margin: 5px;
+    padding: 10px;
+    border-radius: 8px;
+    
+}
+
+.btn{
+    border: 0;
+    box-shadow: 0 5px 5px rgb(0 0 0 / 20%);
+    margin-left: 600px;
+    padding: 10px;
+    border-radius: 8px;
+}
